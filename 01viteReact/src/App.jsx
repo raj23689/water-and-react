@@ -1,4 +1,4 @@
-import Water from "./Water"
+import Water from "./water"
 
 
 function App() {
